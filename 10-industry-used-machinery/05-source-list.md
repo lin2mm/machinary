@@ -186,3 +186,21 @@
 | E25 | TikTok Discover "二手挖掘机出售" https://www.tiktok.com/discover/%E4%BA%8C%E6%89%8B%E6%8C%96%E6%8E%98%E6%9C%BA%E5%87%BA%E5%94%AE | 2026-06 | 竞品账号样本：@guangdong.crane.c、@yonggong_excavators |
 | E26 | TikTok Discover "machinery-supplier-prijs" https://www.tiktok.com/discover/machinery-supplier-prijs | 2026-09 | 竞品账号样本：@used_excavator_seller、@wuqiangmachinery8、@startequipments.ltd（肯尼亚 Ksh 报价） |
 | E27 | 鸟哥笔记《快手二哥 6 场直播卖 288 台车》 https://www.niaogebiji.com/article-25685-1.html | 2020-03 | 团购式直播卖车、打赏>60 元加微信、高客单 8 套路 |
+
+### H3 增补：设备识别与精准客户专题（检索 2026-09-27）
+
+| # | 来源 | 日期 | 支撑的结论 |
+|---|---|---|---|
+| P1 | 自拍场地图 IMG-01（会话内观察；二进制未持久化，转录见 20-project-rotary-rig-sea/05-equipment-identification-staging.md） | 2026-09-27 | 一手证据：≥10 台旋挖钻机、山河为主、160H2 标牌、中国电建涂装、惠龙园区、拍摄行为 |
+| C34 | PT Sany Perkasa https://sanyperkasa.com/ 及 service commitment 页 | 现行 | SANY 印尼官方代理：30+ 处分支/车间（含 Jakarta 仓库车间），在售旋挖钻（SR65 起）+售后+正品件+维保 |
+| C35 | Sunward Indonesia https://sunwardindonesia.com/ | 2024-07 | 山河印尼：钻机/挖机贸易+配件+技术支援（Jakarta Cakung） |
+| C36 | PT Royal Krane https://royalkrane.id/sunward-crane/ | 现行 | 山河履带吊印尼独家代理，兼旋挖钻机等分销+备件+保修 |
+| C37 | ZWM Philippines https://sanyph.com/ | 2026-03 | SANY 菲律宾官方代理（2020 起），含 Piling Rigs，Luzon/Visayas 24/7 现场服务 |
+| E28 | WingAn Foundation & Pile Specialist https://www.winganfoundation.com/ | 现行 | 菲桩基专业商样本：bored/driven/sheet piling，20+ 年 |
+| E29 | JAP Construction https://japcon.com.ph/ | 现行 | 菲基础工程样本：bored/micro piling、地连墙、设备租赁+贸易 |
+| E30 | Foundation Specialists Inc. http://thecompasses.net/boredpilesphilippines/ | 现行 | 菲头部基础商样本：PCAB AAAA、旋转钻机成桩、东南亚/中东/非洲项目 |
+| E31 | PT INSEMA Sunly Engineering https://www.sunlyengineering.com/ | 现行 | 印尼基础商样本：bored pile/stone column/地连墙+设备租赁，电厂/港口项目 |
+| E32 | Cokro Pondasi（ZoomInfo 档） https://www.zoominfo.com/c/cokro-pondasi--drop-hammer--bore-pile--general-kontraktor/459298871 | 现行 | 印尼中型桩基商样本：109 人、$13.8M、液压钻+wash boring |
+| E33 | PT Jowo Land Construction https://jowolandborepile.com/ | 2026-05 | **印尼小型桩基商在用 SANY SR65/SR155** → S1 细分与 65–155 级需求实证 |
+| E34 | Azka Jaya Mandiri https://azkajayamandiri-borepile.com/ | 现行 | 雅加达小型 bore pile 服务商样本 |
+| E35 | Asas Kukuh https://asaskukuh.com/ | 2025-09 | 马来中小桩基商样本（CIDB/MOF 注册） |

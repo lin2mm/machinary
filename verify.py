@@ -39,7 +39,7 @@ with open(os.path.join(ROOT, '00-system/data/source-register.csv'), encoding='ut
 alltext = {rel(p): open(p, encoding='utf-8').read() for p in mds}
 alltext['README.md'] = open(readme, encoding='utf-8').read()
 for name, t in alltext.items():
-    for m in re.finditer(r'\[([A-F])(\d+)\]', t):
+    for m in re.finditer(r'\[([A-FP])(\d+)\]', t):
         if m.group(0) not in [f'[{i}]' for i in reg_ids] and (m.group(1)+m.group(2)) not in reg_ids:
             fail.append(f"{name} 引用了不存在的 ID {m.group(0)}")
 print(f"[3] 登记册 ID 数: {len(reg_ids)}")
