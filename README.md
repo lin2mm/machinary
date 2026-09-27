@@ -9,7 +9,7 @@
 |---|---|---|
 | 系统 | [00-system/](00-system/00-overview.md) | 命名规范、TRUTH 反幻觉、通用调研方法论、通用 GTM 方法论、模板库、来源登记册 |
 | 行业 | [10-industry-used-machinery/](10-industry-used-machinery/01-how-to-sell-playbook.md) | 全品类：怎么卖 / 品类×市场矩阵 / 合规风险 / 调研实录 / 来源清单 |
-| 项目 | [20-project-rotary-rig-sea/](20-project-rotary-rig-sea/00-equipment-analysis-inventory-profile.md) | 旋挖钻机卖到东南亚：设备画像 / 调研 / GTM / 团队与设点 / [TikTok 引流 360°](20-project-rotary-rig-sea/04-tiktok-sea-leadgen-playbook.md) / [设备识别暂存](20-project-rotary-rig-sea/05-equipment-identification-staging.md) / [精准客户交叉分析](20-project-rotary-rig-sea/06-customer-precision-cross-analysis.md) |
+| 项目 | [20-project-rotary-rig-sea/](20-project-rotary-rig-sea/00-equipment-analysis-inventory-profile.md) | 旋挖钻机卖到东南亚：设备画像 / 调研 / GTM / 团队与设点 / [TikTok 引流 360°](20-project-rotary-rig-sea/04-tiktok-sea-leadgen-playbook.md) / [设备识别暂存](20-project-rotary-rig-sea/05-equipment-identification-staging.md) / [精准客户交叉分析](20-project-rotary-rig-sea/06-customer-precision-cross-analysis.md) / [全盘行动计划(AI/人分工)](20-project-rotary-rig-sea/07-action-plan-ai-human-split.md) |
 
 ## 系统层入口（先读这两份）
 - [01-naming-convention](00-system/01-naming-convention.md) —— 怎么组织、怎么命名（含 v1 复盘）
