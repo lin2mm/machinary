@@ -204,3 +204,20 @@
 | E33 | PT Jowo Land Construction https://jowolandborepile.com/ | 2026-05 | **印尼小型桩基商在用 SANY SR65/SR155** → S1 细分与 65–155 级需求实证 |
 | E34 | Azka Jaya Mandiri https://azkajayamandiri-borepile.com/ | 现行 | 雅加达小型 bore pile 服务商样本 |
 | E35 | Asas Kukuh https://asaskukuh.com/ | 2025-09 | 马来中小桩基商样本（CIDB/MOF 注册） |
+
+### H4 增补：越南市场与菲律宾客户名单专题（检索 2026-09-27）
+
+| # | 来源 | 日期 | 支撑的结论 |
+|---|---|---|---|
+| C38 | Decision 18/2019/QD-TTg https://english.luatvietnam.vn/decision-no-18-2019-qd-ttg-import-of-used-machinery-equipment-and-technological-lines-172212-doc1.html | 2019-04 | 越南旧设备进口：机龄≤10年（附录行业15–20年）；X=进口年−出厂年；需检验证书 |
+| C39 | Conventus Law https://conventuslaw.com/report/vietnam-new-regulations-restrict-imports-of-used/ | 2019-06 | 进口旧设备用途收窄至生产用途；检验证书 6 个月有效；超10年需 MOST 特批 |
+| C40 | lawyer24h https://lawyer24h.net/conditions-and-procedure-for-importing-used-second-hand-machinery-equipment-and-production-lines-into-vietnam/ | 2021-07 | Decision 18 程序/文件细节；防"落后机器垃圾场"立法目的 |
+| D21 | hcargovn 清关博客 https://www.hcargovn.com/post/importing-procedures-for-used-crawler-crane-things-to-know | 2023-08 | 称挖机/起重机类归交通部管理、不受10年限制 [待验证，需货代书面确认] |
+| E36 | ĐuaFat https://duafat.com.vn/en/ | 2023-03 | 越南最大桩基机队之一；合作方含 Bauer/Casagrande/Liebherr/SANY/山河 |
+| E37 | Lê Thy Corp https://lethycorp.com/en/cao-oc-van-phong/sky-m-ha-long-quang-ninh-html | 2026-05 | 下龙 Sky M 项目用 SANY SR360R 旋挖成桩 → 越南在用中国钻机实证 |
+| E38 | Hanoi Vietnam Co. https://mayxaydunghanoi.com/en/ | 2026-03 | 越南本地二手机商：售 XCMG XR240E(2020)/住友 SD205 等 → 竞对样本 |
+| E39 | ACEL 会员目录 http://www.acel.com.ph/directory | 现行 | 菲设备租赁/承包商名录：YUO PIN(旋挖出租)/ANSECA/R.D.Policarpio/JVF/Basilio 等 |
+| E40 | CEC Construction https://www.cec.com.ph/services/ | 2024-10 | 菲 S2 样本：旋挖桩 D800–D1600×30m 项目实绩 |
+| E41 | NECO https://neco.ph/ | 现行 | 菲 AAA 承包商；1990 起设备贸易+租赁；bored piling → 客户+渠道双重 |
+| E42 | Bauer PH 案例 https://geotechnical-solutions.bauer.de/en/foundation-work-for-metro-manila-skyway | 2019 | Skyway III 桩 Ø3.4m/深44m → 菲高端市场温度计 |
+| E43 | VVIID 目录 https://www.vviid.com/ | 2026 | 菲专业分包目录平台（Santos Civil/Manila Foundation；疑似样例数据，低置信） |
