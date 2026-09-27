@@ -3,7 +3,7 @@
 置信度: H
 最后核验: 2026-09-27
 下次复核: 2026-12-27
-来源登记: 10-行业-二手工程机械/05-来源清单.md
+来源登记: 10-industry-used-machinery/05-source-list.md
 ---
 
 # 05 · 来源清单与可信度
@@ -120,9 +120,9 @@
 
 ---
 
-## H. 项目层新增来源（20-项目-二手旋挖钻机-东南亚，检索 2026-09-27）
+## H. 项目层新增来源（20-project-rotary-rig-sea，检索 2026-09-27）
 
-> 说明：ID 全仓库唯一，登记于 `00-系统/数据/来源登记册.csv`（由本文件自动生成）。
+> 说明：ID 全仓库唯一，登记于 `00-system/data/source-register.csv`（由本文件自动生成）。
 
 ### H-A 官方（L1）
 | # | 来源 | 日期 | 支撑的结论 |
@@ -166,3 +166,23 @@
 | E21 | https://tybinfra.com/product/sany-sr155-piling-rig-for-sale/ | 印度 SR155（2017/18）₹82–85 万 |
 | E22 | https://www.alibaba.com/showroom/sany-drilling-rig-machine.html | 挂价 SR125 $100k、SR155 $95k、SR65 $22k、SUNWARD $100k |
 | E23 | https://www.machinio.com/sany/piling-rigs | 挂价区间 $10.7k–$813k |
+
+### H2 增补：TikTok 东南亚引流专题（检索 2026-09-27）
+
+| # | 来源 | 日期 | 支撑的结论 |
+|---|---|---|---|
+| C26 | TikTok Newsroom《460 million users in SEA》 https://newsroom.tiktok.com/tiktok-surpasses-460-million-users-in-southeast-asia-inks-partnership-with-vietnams-ministry-of-culture-sports-and-tourism?lang=en-SG | 2025-11 | SEA 月活 4.6 亿：印尼 1.6 亿、越南 7000 万、泰国 5000 万、其余 1.8 亿 |
+| C27 | RetailAsia《TikTok reaches 460 million monthly users in SEA》 https://retailasia.com/news/tiktok-reaches-460-million-monthly-users-in-southeast-asia | 2025-11 | 同 C26 交叉验证 |
+| C28 | calculatecreator《Top 20 Countries by TikTok Users》 https://calculatecreator.com/region/ | 2026-01 | 另一口径：印尼 1.13 亿、越南 5060 万、菲 4830 万、泰 4190 万、马 2150 万（与 C26 口径不同，见矛盾记录） |
+| C29 | New York Times《TikTok Shop Feature is Shuttered in Indonesia After Ban》 https://www.nytimes.com/2023-10-05/business/tiktok-shop-indonesia-ecommerce-ban.html | 2023-10 | 2023-10 TikTok Shop 印尼关停（社交与电商分离令） |
+| C30 | Manila Bulletin/AFP《Indonesia bans goods transactions on social media》 https://mb.com.ph/2023-9-27/indonesia-bans-goods-transactions-on-social-media-platforms | 2023-09 | Permendag 31/2023：社交媒体只能推广、不得站内成交 |
+| C31 | Indonesia Business Post《TikTok–Tokopedia merger scrutiny》 https://indonesiabusinesspost.com/6353/markets-and-finance/indonesia-moves-to-safeguard-digital-market-amid-rise-of-foreign-platforms-after-tiktok-tokopedia-merger | 2026-03 | TikTok 持 Tokopedia 75.01% 恢复运营；2026 年仍在修订 Permendag 31/2023 边界 |
+| C32 | TechWireAsia《TikTok Shop must be a separate app》 https://techwireasia.com/2023-09/the-end-of-tiktok-shop-and-other-social-commerce-in-indonesia/ | 2023-09 | 社交媒介仅可"像电视一样打广告"，不可交易 |
+| C33 | 钛媒体《反诈八年，我在直播间看到的一百种骗局》 https://www.tmtpost.com/7909599.html | 2026-03 | 2024 全国直播带货投诉 40.2 万件（+19.3%）；剧情带货是重灾区 |
+| D18 | TopMarketing《我在抖音卖汽车》 https://itopmarketing.com/info18028 | 2024-09 | 七天起号法、浅层数据、付费矩阵、大卖场场景直播 |
+| D19 | CSDN《二手车商如何利用小程序在抖音引流获客》 https://blog.csdn.net/weixin_44523694/article/details/132680198 | 2023-09 | 线索小程序挂载、关键词布局、矩阵 200+ 账号 |
+| D20 | V2EX《家人在快手被骗》 https://v2ex.com/t/1114549?p=1 | 2025-02 | 主播三天换号、平台推荐机制放大骗局、保证金难追 |
+| E24 | TikTok Discover "excavator-sabah-sale" https://www.tiktok.com/discover/excavator-sabah-sale | 2026-06 | 竞品账号样本：@shandong.wochi.eq、@jt.used.excavator、@daifei.excavator |
+| E25 | TikTok Discover "二手挖掘机出售" https://www.tiktok.com/discover/%E4%BA%8C%E6%89%8B%E6%8C%96%E6%8E%98%E6%9C%BA%E5%87%BA%E5%94%AE | 2026-06 | 竞品账号样本：@guangdong.crane.c、@yonggong_excavators |
+| E26 | TikTok Discover "machinery-supplier-prijs" https://www.tiktok.com/discover/machinery-supplier-prijs | 2026-09 | 竞品账号样本：@used_excavator_seller、@wuqiangmachinery8、@startequipments.ltd（肯尼亚 Ksh 报价） |
+| E27 | 鸟哥笔记《快手二哥 6 场直播卖 288 台车》 https://www.niaogebiji.com/article-25685-1.html | 2020-03 | 团购式直播卖车、打赏>60 元加微信、高客单 8 套路 |

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""TRUTH 发布前验证门（见 00-系统/02 §6）。任一失败 → 退出码 1。"""
+"""TRUTH 发布前验证门（见 00-system/02 §6）。任一失败 → 退出码 1。"""
 import csv, os, re, sys
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -10,7 +10,7 @@ def rel(p): return os.path.relpath(p, ROOT)
 
 # 收集 md
 mds = []
-for base in ['00-系统', '10-行业-二手工程机械', '20-项目-二手旋挖钻机-东南亚']:
+for base in ['00-system', '10-industry-used-machinery', '20-project-rotary-rig-sea']:
     for r, _, fs in os.walk(os.path.join(ROOT, base)):
         for f in fs:
             if f.endswith('.md'): mds.append(os.path.join(r, f))
@@ -34,7 +34,7 @@ print(f"[2] md 数量: {len(mds)}")
 
 # 3) 引用 ID 存在于登记册
 reg_ids = set()
-with open(os.path.join(ROOT, '00-系统/数据/来源登记册.csv'), encoding='utf-8-sig') as f:
+with open(os.path.join(ROOT, '00-system/data/source-register.csv'), encoding='utf-8-sig') as f:
     for row in csv.DictReader(f): reg_ids.add(row['ID'])
 alltext = {rel(p): open(p, encoding='utf-8').read() for p in mds}
 alltext['README.md'] = open(readme, encoding='utf-8').read()
@@ -77,6 +77,15 @@ for name, t in alltext.items():
         if ln.strip().startswith('|'): block.append((i, ln))
         else: chk(block); block = []
     chk(block)
+
+# 8) 文件/目录名必须纯 ASCII（workspace 查看器对中文名显示 Unknown file）
+nonascii = []
+for r, ds, fs in os.walk(ROOT):
+    if '.git' in r.split(os.sep): continue
+    for n in ds + fs:
+        if any(ord(c) > 127 for c in n): nonascii.append(rel(os.path.join(r, n)))
+if nonascii: fail.append(f"非 ASCII 文件/目录名: {nonascii}")
+print(f"[8] 非 ASCII 名称: {len(nonascii)}")
 
 print("\n结果:", "全部通过" if not fail else "FAIL")
 for x in fail: print("  -", x)
